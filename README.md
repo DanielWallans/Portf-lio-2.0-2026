@@ -1,10 +1,10 @@
-# 🌟 Daniel Wallans — Portfólio Pessoal
+#  Daniel Wallans — Portfólio Pessoal
 
 Este é o repositório do meu portfólio pessoal e profissional, reestruturado como uma aplicação moderna de página única (SPA) desenvolvida em **React**, utilizando **Framer Motion** para animações interativas de alto nível e **CSS3 (Vanilla)** com suporte nativo a temas escuro/claro.
 
 ---
 
-## 🚀 Funcionalidades Principais
+##  Funcionalidades Principais
 
 - **Visual Premium & Parallax**: Efeito parallax de profundidade 3D na seção de abertura (Hero) controlado pela rolagem da página.
 - **Habilidades Dinâmicas**: Apresentação de competências técnicas com barras de carregamento animadas e reatividade a interações (*hover*).
@@ -15,7 +15,7 @@ Este é o repositório do meu portfólio pessoal e profissional, reestruturado c
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **React 18** (Biblioteca para construção de interfaces modulares)
 - **Framer Motion** (Biblioteca robusta para animações fluidas)
@@ -25,7 +25,7 @@ Este é o repositório do meu portfólio pessoal e profissional, reestruturado c
 
 ---
 
-## ✉️ Contato
+##  Contato
 
 Se deseja bater um papo sobre desenvolvimento web, automação ou parcerias freelancer, sinta-se à vontade para se conectar:
 
