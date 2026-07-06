@@ -31,4 +31,4 @@ Se deseja bater um papo sobre desenvolvimento web, automação ou parcerias free
 
 - **E-mail:** [danieldiniz03@live.com](mailto:danieldiniz03@live.com)
 - **LinkedIn:** [Daniel Wallans](https://www.linkedin.com/in/danielwallans/)
-- **Portfólio Online:** [Acessar Website](https://danielwallans.netlify.app/)
+- **Portfólio Online:** [Acessar Website]([https://danielwallans.netlify.app/](https://sl1nk.com/Xq4zX))
